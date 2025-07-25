@@ -34,6 +34,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=chithraka-kal&theme=onedark&no-frame=false&no-bg=false&margin-w=6" alt="GitHub Trophies"/>
 </p>
 
+<!--
 ---
 
 ### 📊 GitHub Stats
@@ -47,6 +48,7 @@
 </p>
 
 ---
+-->
 
 ### 🔗 Let's Connect!
 
