@@ -16,7 +16,7 @@
 - 👯 I’m open to **internships** or **remote part-time roles**  
 - 🎮 Hobbies: Drawing, Music (Sinhala Pop), Gaming, and dreaming big  
 - 💬 Ask me about anything related to **game dev, JavaScript, or AI projects**  
-- 📫 Reach me: **kalanamith@gmail.com**  
+- 📫 Reach me: **chithrakakalanamith@gmail.com**  
 
 ---
 
@@ -31,7 +31,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chithraka&theme=radical&margin-w=10&row=1" />
+  <img src="https://github-profile-trophy.vercel.app/?username=chithraka-kal&theme=onedark&no-frame=false&no-bg=false&margin-w=6" alt="GitHub Trophies"/>
 </p>
 
 ---
@@ -39,15 +39,11 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chithraka&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=chithraka&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chithraka&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=chithraka-kal&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chithraka-kal&theme=tokyonight&hide_border=false" alt="Streak Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chithraka-kal&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
 </p>
 
 ---
