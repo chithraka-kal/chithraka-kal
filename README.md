@@ -4,7 +4,7 @@
 <h3 align="center">Creative Computer Science Student | Game Developer | Aspiring Software Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Welcome+to+my+GitHub!;Game+Dev+%7C+Web+Dev+%7C+Creative+Tech;Building+Maniya+%26+Pie+Verse" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Welcome+to+my+GitHub!;Game+Dev+%7C+Web+Dev+%7C+Creative+Tech;Building+%26+Pie+Verse" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,7 +12,8 @@
 ### 🌟 About Me
 
 - 🔭 I’m currently working on **Pie Verse** – two story-rich platformer games  
-- 🌱 I’m learning **React, Tailwind CSS**, and improving my **game design & storytelling**  
+- 🌱 I’m learning **React, Tailwind CSS**, and improving my **game design & storytelling**
+- 🤝 I'm opensource contributor
 - 👯 I’m open to **internships** or **remote part-time roles**  
 - 🎮 Hobbies: Drawing, Music (Sinhala Pop), Gaming, and dreaming big  
 - 💬 Ask me about anything related to **game dev, JavaScript, or AI projects**  
@@ -23,7 +24,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,vite,java,cs,tailwind,figma,git,unity,firebase,netlify,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=js,java,html,css,react,nodejs,express,mongodb,vite,typescript,cs,php,tailwind,figma,mysql,git,postman,docker,unity,firebase,netlify,vercel,vscode&theme=light" />
 </p>
 
 ---
