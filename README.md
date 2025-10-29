@@ -38,7 +38,7 @@
 
 ---
 
-### 📊 GitHub Stats
+<!--### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=chithraka-kal&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
@@ -49,7 +49,7 @@
 </p>
 
 ---
-
+-->
 
 ### 🔗 Let's Connect!
 
