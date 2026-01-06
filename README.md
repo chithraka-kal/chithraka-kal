@@ -1,75 +1,51 @@
-<!-- README.md -->
-
 <h1 align="center">Hi 👋, I'm Chithraka Kalanamith</h1>
-<h3 align="center">Creative Computer Science Student | Game Developer | Aspiring Software Engineer</h3>
+<h3 align="center">Full-Stack Engineer | AI Researcher | Game Developer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Welcome+to+my+GitHub!;Game+Dev+%7C+Web+Dev+%7C+Creative+Tech;Building+%26+Pie+Verse" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&center=true&width=435&lines=Building+Scalable+Web+Apps;AI+%26+Machine+Learning+Research;Game+Dev+%40+The+Pie+Verse;Cloud+%26+DevOps+Enthusiast" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://chithraka.dev/" target="_blank">🌐 Portfolio</a>
 </p>
 
 ---
 
 ### 🌟 About Me
 
-- 🔭 I’m currently working on **Pie Verse** – two story-rich platformer games  
-- 🌱 I’m learning **React, Tailwind CSS**, and improving my **game design & storytelling**
-- 🤝 I'm opensource contributor
-- 👯 I’m open to **internships** or **remote part-time roles**  
-- 🎮 Hobbies: Drawing, Music (Sinhala Pop), Gaming, and dreaming big  
-- 💬 Ask me about anything related to **game dev, JavaScript, or AI projects**  
-- 📫 Reach me: **chithrakakalanamith@gmail.com**  
+I am a **Final-year Computer Science Undergraduate** at NSBM Green University. I bridge the gap between creative game design and rigorous software engineering, focusing on building **production-ready applications** and **AI-driven solutions**.
+
+- 🔭 I’m currently working on a **Breast Cancer Prediction System** using Deep Learning (CNNs) & **Yaman Travels** (AI Travel Planner).
+- 🚀 I specialize in **Next.js 14, Docker, and AWS Architecture**.
+- 🛠️ I have deployed apps using custom **CI/CD pipelines** (GitHub Actions) and **Nginx** reverse proxies.
+- 🤝 I’m an **Open Source Contributor** (Hacktoberfest 2025).
+- 🎮 Creator of **The Pie Verse** (2D Platformer).
+- 📫 Reach me: **chithrakakalanamith@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,java,python,html,css,react,nodejs,express,mongodb,vite,typescript,cs,php,tailwind,figma,mysql,git,postman,docker,unity,firebase,netlify,vercel,vscode&theme=light" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,typescript,js,python,java,cs,aws,docker,nginx,linux,git,githubactions,tailwind,bootstrap,unity,vscode,postman,php,mysql,figma&theme=light" />
 </p>
 
 ---
 
-### 🏆 GitHub Trophies
+### 🚀 Featured Projects
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=chithraka-kal&theme=onedark&no-frame=false&no-bg=false&margin-w=6" alt="GitHub Trophies"/>
-</p>
-
-
----
-
-<!--### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chithraka-kal&show_icons=true&theme=tokyonight&hide_border=false" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chithraka-kal&theme=tokyonight&hide_border=false" alt="Streak Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chithraka-kal&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
-</p>
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **✈️ Yaman Travels** | AI-powered travel itinerary generator with fully automated deployment. | Next.js 14, MongoDB, Gemini API, Docker, AWS EC2 |
+| **🏥 MediHelp** | Comprehensive clinic management system with role-based auth (JWT). | React, Node.js, Express, Tailwind CSS |
+| **🥧 The Pie Verse** | Polished 2D platformer with custom physics & lighting. | Unity 2D, C#, HLSL (Shaders) |
+| **🧠 Medical AI** | Research on predicting breast cancer using ML classifiers. | Python, TensorFlow, Scikit-learn, CNNs |
 
 ---
 
 
-### 🔗 Let's Connect!
 
-<p align="center">
-  <a href="https://linkedin.com/in/chithraka" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:kalanamith@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.instagram.com/chithraka/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" /></a>
-</p>
-
----
-
-### 🧭 Visitors Count
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=chithraka&label=Profile+Views&color=0e75b6&style=flat" alt="chithraka" />
-</p>
-
----
--->
-### 🚀 Quote to Live By
+### 🧭 Quote to Live By
 > *"Sometimes, when you're in a dark place, you think you've been buried — but you've actually been planted."*
 
 ---
