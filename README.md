@@ -16,10 +16,10 @@
 I am a **Final-year Computer Science Undergraduate** at NSBM Green University. I bridge the gap between creative game design and rigorous software engineering, focusing on building **production-ready applications** and **AI-driven solutions**.
 
 - 🔭 I’m currently working on a **Breast Cancer Prediction System** using Deep Learning (CNNs) & **Yaman Travels** (AI Travel Planner).
-- 🚀 I specialize in **Next.js 14, Docker, and AWS Architecture**.
+- 🚀 I specialize in **Next.js, Docker, and AWS Architecture**.
 - 🛠️ I have deployed apps using custom **CI/CD pipelines** (GitHub Actions) and **Nginx** reverse proxies.
 - 🤝 I’m an **Open Source Contributor** (Hacktoberfest 2025).
-- 🎮 Creator of **The Pie Verse** (2D Platformer).
+- 🎮 Creator of **The Pie Verse** (2D Platformer Game).
 - 📫 Reach me: **chithrakakalanamith@gmail.com**
 
 ---
@@ -38,7 +38,7 @@ I am a **Final-year Computer Science Undergraduate** at NSBM Green University. I
 | :--- | :--- | :--- |
 | **✈️ Yaman Travels** | AI-powered travel itinerary generator with fully automated deployment. | Next.js 14, MongoDB, Gemini API, Docker, AWS EC2 |
 | **🏥 MediHelp** | Comprehensive clinic management system with role-based auth (JWT). | React, Node.js, Express, Tailwind CSS |
-| **🥧 The Pie Verse** | Polished 2D platformer with custom physics & lighting. | Unity 2D, C#, HLSL (Shaders) |
+| **🥧 The Pie Verse** | 2D story-driven platformer game that blends humor, pixel art, and layered level design. | Unity 2D, C#, HLSL (Shaders) |
 | **🧠 Medical AI** | Research on predicting breast cancer using ML classifiers. | Python, TensorFlow, Scikit-learn, CNNs |
 
 ---
